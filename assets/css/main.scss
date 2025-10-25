@@ -7,3 +7,20 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.committee-avatar-row {
+  display: flex;            /* Lays out images in a row */
+  flex-wrap: nowrap;        /* Prevents wrapping to a new line */
+  overflow-x: hidden;       /* Hides any images that overflow */
+  padding-bottom: 1.25em;   /* Adds some space above the button */
+}
+
+.committee-avatar-thumbnail {
+  width: 60px;              /* Sets a fixed width */
+  height: 60px;             /* Matches width to make it square */
+  object-fit: cover;        /* Fills the square without distorting the image */
+  border-radius: 8px;       /* Adds slightly rounded corners */
+  margin-right: 8px;        /* Adds space between photos */
+  flex-shrink: 0;           /* Stops images from shrinking to fit */
+  background: #eee;         /* Adds a light background in case images are missing */
+}
