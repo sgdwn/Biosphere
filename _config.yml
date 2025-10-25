@@ -309,3 +309,9 @@ defaults:
       comments: # true
       share: true
       related: true
+  - scope:
+      path: ""
+      type: committee  # This must match your collection name
+    values:
+      layout: single
+      author_profile: true # This will show the sidebar
