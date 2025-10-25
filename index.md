@@ -8,4 +8,11 @@ Created by a small group of students, Biosphere is the university's first studen
 ​
 Our aim is to create a supportive community where you can explore academic interests, delevop new ideas, and accesses opportunities to actively engage with industry beyond the classroom.  
 
-<a href="{{ '/committee/' | relative_url }}" class="btn btn--primary">Meet the Committee</a>
+<div class="notice--info">
+  <h4>Meet the committee</h4>
+  <p>
+    <a href="{{ '/committee/' | relative_url }}" class="btn btn--primary">
+      Go <i class="fas fa-arrow-right" aria-hidden="true"></i>
+    </a>
+  </p>
+</div>
