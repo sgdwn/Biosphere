@@ -290,6 +290,11 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  committee:
+    output: true
+    permalink: /committee/:name/
 
 # Defaults
 defaults:
