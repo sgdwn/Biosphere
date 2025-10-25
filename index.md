@@ -10,6 +10,15 @@ Our aim is to create a supportive community where you can explore academic inter
 
 <div class="notice--info">
   <h4>Meet the committee</h4>
+  
+  <div class="committee-avatar-row">
+    {% for member in site.committee %}
+      {% if member.avatar %}
+        <img src="{{ member.avatar | relative_url }}" alt="Photo of {{ member.title }}" class="committee-avatar-thumbnail">
+      {% endif %}
+    {% endfor %}
+  </div>
+  
   <p>
     <a href="{{ '/committee/' | relative_url }}" class="btn btn--primary">
       Go <i class="fas fa-arrow-right" aria-hidden="true"></i>
