@@ -17,7 +17,7 @@ There are many opportunities out there, however some are more well-hidden than o
 <div class="notice--info">
   <h4>Opportunity Spreadsheet</h4>
   
-  <p>
+  <p style="color: white;">
     <a href="{{ 'https://docs.google.com/spreadsheets/d/1DXrCDbrWoQabTsBdcHnC8XH6YS4VO8F0/edit?usp=sharing&ouid=104256349167484048549&rtpof=true&sd=true' | relative_url }}" class="btn btn--primary">
       Open <i class="fas fa-arrow-right" aria-hidden="true"></i>
     </a>
@@ -33,9 +33,9 @@ Our university also offers amazing resources to help you with your career, here'
 Our university also has a small dedicated team set to help you find your placement year and support you in finding work after employment. 
 
 - Andrew Stainton: <a.stainton@sheffield.ac.uk>
-​
 - Mark Collins: <mark.collins@sheffield.ac.uk>
 ​
+
 ## Career Connect
 
 This resource offers support for CV writing, career planning and interview preparations. 
