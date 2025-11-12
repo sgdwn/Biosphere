@@ -2,7 +2,7 @@
 # This is "front matter" where you store the data
 title: "Amelia Bonner"
 position: "Newsletter Director"
-avatar: "/assets/images/Amelia.jpg" # (Optional) Path to their picture
+avatar: "/assets/images/Amelia.jpeg" # (Optional) Path to their picture
 order: 1 # (Optional) Use this to control the display order
 ---
 
