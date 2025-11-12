@@ -25,3 +25,8 @@ Our aim is to create a supportive community where you can explore academic inter
     </a>
   </p>
 </div>
+
+- (Internships and Employment)[/employability]
+- (Study Support)[/study-support]
+- (Events)[/events]
+
