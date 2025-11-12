@@ -1,6 +1,6 @@
 ---
-title: "Blog"
-permalink: /blog/
+title: "Newsletter"
+permalink: /newsletter/
 layout: collection
 collection: posts
 sort_by: date
