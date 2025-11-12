@@ -12,3 +12,5 @@ main:
   #   url: /sitemap/
     - title: "Committee"
       url: /committee/
+    - title: "Events"
+      url: /events/
