@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Biosphere"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "."
+  avatar           : "/assets/images/Logo.png"
+  bio              : "Student group at the University of Sheffield."
   location         : "Sheffield, UK"
   email            :
   links:
