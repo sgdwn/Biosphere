@@ -27,5 +27,5 @@ Our aim is to create a supportive community where you can explore academic inter
 </div>
 
 - [Internships and Employment](/Employability/)
-- [Study Support](/study-support/)
+- [Study Support](/study_support/)
 - [Events](/events/)
