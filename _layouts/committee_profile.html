@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<style>
+  .committee-member-profile {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border: 1px solid #eee;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center;
+  }
+  .profile-avatar {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+  }
+  .committee-member-profile h1 {
+    margin: 0;
+    font-size: 2em;
+  }
+  .committee-member-profile h2 {
+    margin: 0.25em 0 1em;
+    font-size: 1.2em;
+    font-weight: normal;
+    color: #555;
+  }
+  .bio {
+    text-align: left;
+  }
+</style>
+
+<article class="committee-member-profile">
+  {% if page.avatar %}
+    <img src="{{ page.avatar | relative_url }}" alt="Photo of {{ page.title }}" class="profile-avatar">
+  {% endif %}
+  <h1>{{ page.title }}</h1>
+  <h2>{{ page.position }}</h2>
+  <div class="bio">
+    {{ content }}
+  </div>
+</article>

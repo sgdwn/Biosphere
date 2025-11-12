@@ -3,6 +3,7 @@
 title: "Ella Leppänen"
 position: "Secretary"
 avatar: "/assets/images/LeppanenElla-photo.jpg" # (Optional) Path to their picture
+layout: "committee_profile"
 order: 1 # (Optional) Use this to control the display order
 ---
 

@@ -3,6 +3,7 @@
 title: "Hattie"
 position: "Treasurer"
 avatar: "/assets/images/hattie.jpg" # (Optional) Path to their picture
+layout: "committee_profile"
 order: 1 # (Optional) Use this to control the display order
 ---
 

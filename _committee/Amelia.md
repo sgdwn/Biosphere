@@ -3,6 +3,7 @@
 title: "Amelia Bonner"
 position: "Newsletter Director"
 avatar: "/assets/images/Amelia.jpeg" # (Optional) Path to their picture
+layout: "committee_profile"
 order: 1 # (Optional) Use this to control the display order
 ---
 
