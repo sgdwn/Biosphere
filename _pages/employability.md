@@ -4,8 +4,6 @@ permalink: /Employability/
 layout: single
 ---
 
-# Internships and Employment
-
 It's no secret that the grad job market is tough right now. With articles of students applying for a countless number of roles, and the number of applicants per open position at all time highs, it can be difficult to stand out from the crowd. To help you find support and build your professional skills, we have linked univeristy resources and some of our own to help give you an edge. 
 
 ## Internships, Summer Schools and Work Experience
