@@ -3,7 +3,7 @@ layout: home
 header:
   overlay_image: /assets/images/IMG_2941.webp
   overlay_filter: 0.5
-  caption: "Photo credit: **Biosphere**"
+  caption: "Firth Court"
 feature_row:
   - image_path: /assets/images/Logo.png
     alt: "Internships and Employment"
