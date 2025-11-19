@@ -4,8 +4,6 @@ permalink: /study_support/
 layout: single
 ---
 
-# Study Support
-
 Welcome!! You just found our dedicated page for student support! 
 
 Browse here to learn more about other student experiences, study advice and buddy resoources to help you with your university journey
